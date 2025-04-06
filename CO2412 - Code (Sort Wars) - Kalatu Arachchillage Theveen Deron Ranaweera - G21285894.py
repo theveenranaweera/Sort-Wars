@@ -1,8 +1,3 @@
-"""
-* Student Name:  KALATU ARACHCHILLAGE THEVEEN DERON RANAWEERA
-* Student ID: G21285894
-"""
-
 import random  # Used to generate large numeric datasets reflecting real-world randomness
 import time    # Enabling timing of algorithm executions to evaluate efficiency
 import tracemalloc  # Tracking memory usage to compare overhead among sorting approaches
